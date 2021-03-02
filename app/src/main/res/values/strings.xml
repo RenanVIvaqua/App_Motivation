@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="Lets_start">Vamos começar ?</string>
+    <string name="what_your_name">Qual seu nome ?</string>
+    <string name="save">Salvar</string>
+    <string name="new_message">Nova Frase</string>
+</resources>
